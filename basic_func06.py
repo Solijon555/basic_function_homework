@@ -2,4 +2,4 @@
 
 # Return the value str type.
 def main():
-    return str type
+    return "Hello World"
