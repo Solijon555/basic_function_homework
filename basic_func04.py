@@ -2,4 +2,4 @@
 
 # Return the value integer type.
 def main():
-    return integer type 
+    return 5 
